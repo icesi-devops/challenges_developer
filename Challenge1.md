@@ -9,6 +9,7 @@ display the data:
   - USER's TASK CRUD
 
 The user's model would look like this:
+
 | USERS |
 | ------ |
 | id |
